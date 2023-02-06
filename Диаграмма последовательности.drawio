@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T22:53:05.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="SHUE8sN1trymhi7Cyhio" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T22:56:33.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GbnaSmk-GYTAT9AppVmO" version="20.8.16" type="github">
   <diagram name="Страница 1" id="m2RSqw12BbcM5WCUWQPT">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,8 +21,8 @@
             <mxPoint x="774.9999999999998" y="401.51519775390625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IIu5eBHM4CLS01pk-B7N-6" value="Инженер по&lt;br&gt;сборке" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="25" width="90" height="45" as="geometry" />
+        <mxCell id="IIu5eBHM4CLS01pk-B7N-6" value="Сборщик заказов" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="25" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IIu5eBHM4CLS01pk-B7N-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=0.729;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;startArrow=none;" edge="1" parent="1" source="IIu5eBHM4CLS01pk-B7N-64" target="IIu5eBHM4CLS01pk-B7N-1">
           <mxGeometry relative="1" as="geometry" />
@@ -289,6 +289,18 @@
         </mxCell>
         <mxCell id="IIu5eBHM4CLS01pk-B7N-71" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="110" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IIu5eBHM4CLS01pk-B7N-72" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="780" y="540" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IIu5eBHM4CLS01pk-B7N-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IIu5eBHM4CLS01pk-B7N-72" target="IIu5eBHM4CLS01pk-B7N-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="510" as="sourcePoint" />
+            <mxPoint x="510" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IIu5eBHM4CLS01pk-B7N-74" value="Сборка заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="560" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
