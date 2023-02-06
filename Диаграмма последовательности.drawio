@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T22:56:33.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GbnaSmk-GYTAT9AppVmO" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T22:58:45.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Jno9xwNx8rAdULP5-rag" version="20.8.16" type="github">
   <diagram name="Страница 1" id="m2RSqw12BbcM5WCUWQPT">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,7 +175,7 @@
             <mxPoint x="780" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IIu5eBHM4CLS01pk-B7N-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="IIu5eBHM4CLS01pk-B7N-43">
+        <mxCell id="IIu5eBHM4CLS01pk-B7N-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;startArrow=none;" edge="1" parent="1" source="IIu5eBHM4CLS01pk-B7N-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="775" y="750" as="targetPoint" />
           </mxGeometry>
@@ -200,9 +200,10 @@
           <mxGeometry x="120" y="650" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IIu5eBHM4CLS01pk-B7N-54" value="Передача готового заказа" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.3191" y="-10" relative="1" as="geometry">
             <mxPoint x="940" y="680" as="sourcePoint" />
             <mxPoint x="470" y="680" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IIu5eBHM4CLS01pk-B7N-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IIu5eBHM4CLS01pk-B7N-56">
@@ -301,6 +302,15 @@
         </mxCell>
         <mxCell id="IIu5eBHM4CLS01pk-B7N-74" value="Сборка заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IIu5eBHM4CLS01pk-B7N-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="IIu5eBHM4CLS01pk-B7N-43" target="IIu5eBHM4CLS01pk-B7N-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775" y="750" as="targetPoint" />
+            <mxPoint x="775" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IIu5eBHM4CLS01pk-B7N-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="650" width="10" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
